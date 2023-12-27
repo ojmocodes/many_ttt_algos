@@ -1,7 +1,7 @@
 # many_ttt_algos
  How many ways can AI play tic tac toe?
 
-I am doing this to learn, tic tac toe is one of the simplest games so my goal is to learn many algorithms by implementing them with tic tac toe, connect four is one of my favourite games so that's probably next too.
+I am doing this to learn, tic tac toe is one of the simplest games so my goal is to learn many algorithms by implementing them with tic tac toe, connect four is one of my favourite games so that's probably next too (that's why there's a rogue minimax +AB-pruning connect four dir)
 
 Here's the roadmap:
 
