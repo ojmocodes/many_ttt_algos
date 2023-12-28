@@ -10,3 +10,5 @@ Montecarlo tree search
 RL based neural network
 use object detection so you play on paper
 Genetic Algorithms - Represent Tic Tac Toe strategies as sets of rules or heuristics.
+
+Also Muzero would be cool
