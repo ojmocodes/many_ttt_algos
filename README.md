@@ -15,4 +15,4 @@ Also Muzero would be cool
 
 OTHER NOTES:
 
-After I do this stuff I want to do MNIST number detection from scratch.
+After I do this stuff I want to do MNIST number detection from scratch. Could do it with just numpy or something like that like Geohot does cause would maximally learn.
