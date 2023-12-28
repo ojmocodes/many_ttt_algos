@@ -15,4 +15,4 @@ Also Muzero would be cool
 
 OTHER NOTES:
 
-After I do this stuff I want to do MNIST number detection from scratch. Could do it with just numpy or something like that like Geohot does cause would maximally learn.
+After I do this stuff I want to do MNIST number detection from scratch, want to start with pytorch, then maybe try tensorflow to learn about that, but also from only numpy would be cool like geohot, and can try many other object detection algos, CNN algos.
